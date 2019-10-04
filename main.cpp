@@ -6,4 +6,5 @@ int main()
 	std::cout << "Enter A and B: " << endl;
 	std::cin >> a >> b;
 	std::cout <<a + b  << endl;
+	std::cout << a - b << endl;
 }
